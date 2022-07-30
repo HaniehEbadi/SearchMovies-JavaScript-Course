@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(248, 244, 199);
+    margin: 50px 10%;
+}
+
+form {
+    text-align: center;
+}
+
+input {
+    background-color: rgb(193, 190, 159);
+    border: none;
+    border-radius: 4px;
+    padding: 10px 30px;
+}
+
+#demo {
+    padding: 30px 0;
+}
